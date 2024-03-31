@@ -5,7 +5,7 @@
 YOLOv8의 yolov8n-face.pt을 사용하여 이미지에서 얼굴을 검출 후 Crop해 저장하였다.  
 
 ## 이미지 Embedding
-crop된 이미지를 resnet을 사용하여 vecter화 했다.  
+crop된 이미지를 resnet을 사용하여 vector화 했다.  
 
 ## 2D Landmark 추출
 + MTCNN 사용시 5개 포인트 추출
