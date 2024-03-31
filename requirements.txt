@@ -1,0 +1,8 @@
+ultralytics
+cv2
+numpy
+facenet_pytorch
+torchvision
+pillow
+scikit-learn
+face_alignment
