@@ -12,5 +12,5 @@ YOLOv8를 이용하여 이미지에서 얼굴을 검출후 crop하여 저장한 
 + ![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/68f6a597-4ff0-48b4-ba25-db19e9e8cc00)
 
 
-3D Reconstruction은 아래의 Git주소 활용하여 2D이미지를 3D로 구현 하였다
+## 3D Reconstruction은 아래의 Git주소 활용하여 2D이미지를 3D로 구현 하였다
 https://github.com/ascust/3DMM-Fitting-Pytorch?tab=readme-ov-file
