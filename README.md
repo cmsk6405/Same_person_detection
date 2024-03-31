@@ -1,8 +1,11 @@
 # Same_person_detection
 2D이미지를 이용하여 동일인 감지 및 3D Reconstruction
 
+## 이미지 Crop
+YOLOv8의 yolov8n-face.pt을 사용하여 이미지에서 얼굴을 검출 후 Crop해 저장하였다
+
 ## 이미지 Embedding
-YOLOv8를 이용하여 이미지에서 얼굴을 검출후 crop하여 저장한 뒤 resnet을 사용하여 vecter화 했다
+crop된 이미지를 resnet을 사용하여 vecter화 했다
 
 
 ## 2D Landmark 추출
