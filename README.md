@@ -13,6 +13,7 @@ crop된 이미지를 resnet을 사용하여 vector화 했다.
 5개의 포인트뿐이므로 각 포인트간의 유클리드 거리(총 10개)를 측정한다.  
 
 + FAN 사용시 68개의 포인트 추출
+  
 ![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/68f6a597-4ff0-48b4-ba25-db19e9e8cc00)  
 임의의 포인트를 설정하여 유클리드 거리를 측정하여 저장한다.  
 나는 아래의 포인트들을 지정하여 거리를 측정했다.  
