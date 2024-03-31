@@ -32,6 +32,8 @@ Embedding과 Landmark거리를 저장한 .npy파일들을 같은 사람끼리 �
 
 ## 비교
 새로운 이미지들도 위 와 같은 과정을 거친뒤 미리 만들어 놓은 .npy파일들과 유클리드 거리를 비교하여 일정 수준 아래면 같은 사람이라고 판단한다.  
+일치한다면 아래와 같이 결과가 나온다.  
+![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/dbc55df7-a280-40d8-a73f-d6706a8367e3)
 
 ## 3D Reconstruction은 아래의 Git주소 활용하여 2D이미지를 3D로 구현 하였다
 https://github.com/ascust/3DMM-Fitting-Pytorch?tab=readme-ov-file
