@@ -32,11 +32,13 @@ crop된 이미지를 resnet을 사용하여 vector화 했다.
 
 ## verctor merge
 Embedding과 Landmark거리를 저장한 .npy파일들을 같은 사람끼리 모아 하나의 .npy파일로 저장한다.  
+내가 사용한 데이터의 경우 파일이름 앞의 숫자 4자리가 ID로써 사람을 구별하였다. 그래서 이걸 이용하여 같은 사람을 판별하여 merge했다.  
+https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71416  
 
 ## 비교
 새로운 이미지들도 위 와 같은 과정을 거친뒤 미리 만들어 놓은 .npy파일들과 유클리드 거리를 비교하여 일정 수준 아래면 같은 사람이라고 판단한다.  
 일치한다면 아래와 같이 결과가 나온다.  
-![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/dbc55df7-a280-40d8-a73f-d6706a8367e3)
+![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/43df56a1-506e-42f0-9e3e-fc7d2101bab4)  
 
 ## 3D Reconstruction은 아래의 Git주소 활용하여 2D이미지를 3D로 구현 하였다
 https://github.com/ascust/3DMM-Fitting-Pytorch?tab=readme-ov-file
