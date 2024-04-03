@@ -7,6 +7,7 @@
     `python main.py`  
 을 이용하여 사용할수있다.  
 내가 실험에 사용한 이미지 몇장을 sample로 올려놓았다.  
+main.py를 이용할 경우 config.py를 통해 저장 경로를 설정해 놓았다.
 
 ## 이미지 Crop
 YOLOv8의 yolov8n-face.pt을 사용하여 이미지에서 얼굴을 검출 후 Crop해 저장하였다.  
