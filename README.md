@@ -4,7 +4,7 @@
 ## 사용
 2d_same_person_detection.ipynb를 참조하거나  
     ```
-    cd Same_person_detection/main  
+    cd Same_person_detection/main \n
     python main.py  
     ```
 을 이용하여 사용할수있다.  
