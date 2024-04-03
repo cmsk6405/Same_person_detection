@@ -2,7 +2,7 @@ from image_crop import yolo_crop
 from embedding import resnet_embedding
 from landmark import mtcnn_landmark, fan_lanmark
 from merge_verctors import collect_same_person, merge_vec_files
-from classfy import calculate_distances
+from classify import calculate_distances
 
 import argparse
 
