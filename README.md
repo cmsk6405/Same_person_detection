@@ -1,6 +1,13 @@
 # Same_person_detection
 2D이미지를 이용하여 동일인 감지 및 3D Reconstruction  
 
+## 사용
+2d_same_person_detection.ipynb를 참조하거나
+    cd Same_person_detection/main
+    python main.py
+을 이용하여 사용할수있다.
+내가 실험에 사용한 이미지 몇장을 sample로 올려놓았다
+
 ## 이미지 Crop
 YOLOv8의 yolov8n-face.pt을 사용하여 이미지에서 얼굴을 검출 후 Crop해 저장하였다.  
 
