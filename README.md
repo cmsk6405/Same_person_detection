@@ -1,5 +1,8 @@
 # Same_person_detection
 2D이미지를 이용하여 동일인 감지 및 3D Reconstruction  
+아래의 이미지처럼 구성하였다.
+![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/08408265-d8c4-4d54-9104-bd2f174110a7)
+
 
 ## 사용
 2d_same_person_detection.ipynb를 참조하거나  
