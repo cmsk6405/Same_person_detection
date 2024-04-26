@@ -54,7 +54,7 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
 ## 3D Reconstruction은 아래의 Git주소 활용하여 2D이미지를 3D로 구현 하였다
 https://github.com/ascust/3DMM-Fitting-Pytorch?tab=readme-ov-file
 
-내가 가진 이미지로 구현한 것
-![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/af5a37bb-801c-43fe-9d65-d5dbeb5780c7)
+내가 가진 이미지로 구현한 것  
+![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/af5a37bb-801c-43fe-9d65-d5dbeb5780c7)  
 이렇게 3D로 구현을 하면 mesh와 3d이미지가 생성되는데 이를 이용하여 Embedding을 하거나 face와 vertice의 Landmark를 이용하여 유클리드 거리를 측정하여 더욱 정확하게 동일인을 식별해낼 수 있다
 
