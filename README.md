@@ -1,6 +1,7 @@
 # Same_person_detection
-2D이미지를 이용하여 동일인 감지 및 3D Reconstruction  
-아래의 이미지처럼 구성하였다.
+실내에서 여러 CCTV를 통한 한 사람의 동선등을 추적하기 위해서 2D이미지를 이용하여 동일인 감지 및 3D Reconstruction을 진행하였다.  
+
+프로젝트의 구성은 아래의 이미지처럼 구성하였다.
 ![image](https://github.com/cmsk6405/Same_person_detection/assets/97841700/08408265-d8c4-4d54-9104-bd2f174110a7)
 
 
